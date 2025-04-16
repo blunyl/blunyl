@@ -20,8 +20,6 @@
 </div>
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblunyl&count_bg=%236A8CAF&title_bg=%23FFFFFF&icon=&icon_color=%236A8CAF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align= "center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blunyl&layout=compact&bg_color=180,000000,&title_color=black&text_color=black"/> 
 </div> 
